@@ -1,4 +1,6 @@
-# math-series
+# LAB - CLASS 02
+
+## Project : math-series
 <br>
 
 ## Author : Yazan Abushhab
